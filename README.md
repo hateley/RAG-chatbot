@@ -1,4 +1,8 @@
-# QArag
+# RAG Chatbot
+
+
+Summary:
+
 
 ### RAG Architecture
 A typical RAG application has two main components:
